@@ -288,6 +288,13 @@ const scrollToTop = () => {
   });
 };
 
+//function to scroll to Experience section
+const scrollToExperience = () => {
+  var element = document.getElementById("work-experience");
+
+  element.scrollIntoView();
+};
+
 // Window Loads
 $(function () {
   let bodyElement = $(`body`);
