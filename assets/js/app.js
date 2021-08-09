@@ -291,8 +291,9 @@ const scrollToTop = () => {
 //function to scroll to Experience section
 const scrollToExperience = () => {
   var element = document.getElementById("work-experience");
-
+  
   element.scrollIntoView({behavior: "smooth"});
+  document.querySelector(".navbar-toggler").classList.remove("open");
 };
 
 // Window Loads
