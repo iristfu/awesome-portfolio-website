@@ -292,7 +292,7 @@ const scrollToTop = () => {
 const scrollToExperience = () => {
   var element = document.getElementById("work-experience");
 
-  element.scrollIntoView();
+  element.scrollIntoView({behavior: "smooth"});
 };
 
 // Window Loads
