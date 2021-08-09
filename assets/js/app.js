@@ -16,7 +16,7 @@ let header = $(`
 <div class="collapse navbar-collapse " id="navbarSupportedContent">
   <ul class="navbar-nav ml-auto" id = "navbar-content">
    <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">Home</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html#work-experience">Experience</a></li>
+   <li class="nav-item nav-item-hover"><button class="nav-link" id="workExperienceTab" onclick="scrollToExperience()">Experience</button></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="projects.html">Projects</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="research.html">Research</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="education.html">Education</a></li>
@@ -292,6 +292,7 @@ const scrollToExperience = () => {
   
   element.scrollIntoView({behavior: "smooth"});
   // document.querySelector(".navbar-toggler").classList.remove("open");
+  $("#js-hamburger").toggleClass("is-active");
 };
 
 // Window Loads
