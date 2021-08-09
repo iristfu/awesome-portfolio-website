@@ -16,7 +16,9 @@ let header = $(`
 <div class="collapse navbar-collapse " id="navbarSupportedContent">
   <ul class="navbar-nav ml-auto" id = "navbar-content">
    <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">Home</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="#work-experience">Experience</a></li>
+  //  <button id="btnScrollToTop" onclick="scrollToTop()">
+   <li class="nav-item nav-item-hover"><button class="nav-link" id="workExperienceTab" onclick="scrollToExperience()">Experience</button></li>
+  //  <li class="nav-item nav-item-hover"><a class="nav-link" href="#work-experience">Experience</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="projects.html">Projects</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="research.html">Research</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="education.html">Education</a></li>
@@ -243,7 +245,7 @@ let footer = $(`
 
     
     </div>
-    <p class="tag" >Designed w/&hearts;and Khalid's American Teen album on repeat.</p>
+    <p class="tag" >Made w/ &hearts; and Khalid's American Teen album on repeat.</p>
     </div>
 </footer>
 `);
