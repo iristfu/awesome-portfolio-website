@@ -310,9 +310,11 @@ $(function () {
     if (!menuOpen) {
       menuBtn.classList.add("open");
       menuOpen = true;
+      console.log('a')
     } else {
       menuBtn.classList.remove("open");
       menuOpen = false;
+      console.log('b')
     }
   });
 });
