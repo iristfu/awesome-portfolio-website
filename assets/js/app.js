@@ -1,5 +1,7 @@
 "use strict";
 
+// TODO: Write vanilla javascript code for data-toggle="collapse" functionality on the hamburger menu
+
 let header = $(`
 <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="navbar">
 <a class="navbar-brand" href="index.html">Iris Fu </a>
@@ -16,7 +18,7 @@ let header = $(`
 <div class="collapse navbar-collapse " id="navbarSupportedContent">
   <ul class="navbar-nav ml-auto" id = "navbar-content">
    <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">Home</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="#work-experience">Experience</a></li>
+   <li class="nav-item nav-item-hover" onclick="scrollToExperienceSection()"><a class="nav-link" href="#work-experience">Experience</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="projects.html">Projects</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="research.html">Research</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="education.html">Education</a></li>
@@ -125,7 +127,7 @@ let footer = $(`
 
 
         <div class="col-lg-6 col-md-12 mb-4 mb-md-0 form-comtainer">
-          <div class="form-style-6">
+          <div class="form-styl$e-6">
              <div class="form-header">
                 <h6 class="display">Get in Touch</h6>
               </div>
@@ -255,6 +257,10 @@ let upArrow = $(`
   })
 `);
 
+function sayHi() {
+  console.log('hello world');
+}
+
 //function for the "Scroll To Top" button to detect the footer
 $(document).ready(function () {
   $(window).scroll(function () {
@@ -279,6 +285,7 @@ $(document).ready(function () {
 
 //function to scroll to top
 const scrollToTop = () => {
+  console.log("scrolling to top");
   window.scrollTo({
     top: 0,
     left: 0,
@@ -294,6 +301,30 @@ const scrollToExperience = () => {
   // document.querySelector(".navbar-toggler").classList.remove("open");
   $("#js-hamburger").toggleClass("is-active");
 };
+
+function scrollToExperienceSection() {
+
+  console.log("experience was clicked")
+  const hamburgerMenu = document.querySelector('.hamburger_wrapper');
+  const bsCollapse = new bootstrap.Collapse(hamburgerMenu);
+  bsCollapse.toggle();
+
+  // const 
+  $('#js-hamburger').collapse('hide');
+}
+
+$('.hamburger a').click(function(){
+  $(".hamburger").collapse('hide');
+
+});
+
+$(function(){
+  console.log('in our new code')
+  var navMain = $("#navbar-toggler");
+  navMain.on("click", "a", null, function () {
+    navMain.collapse('hide');
+  });
+})
 
 // Window Loads
 $(function () {
@@ -321,21 +352,19 @@ $(function () {
 
 $(function () {
   $("#js-hamburger").on("click", function () {
-    // $(this).toggleClass("is-active");
+    $(this).toggleClass("is-active");
   });
-
-  console.log('smth happened')
 });
 
 // Navbar current page highlight
 
 let loader = document.querySelector(".loader-container");
 
-window.addEventListener("load", vanish);
+// window.addEventListener("load", vanish);
 
-function vanish() {
-  loader.classList.add("disappear");
-}
+// function vanish() {
+//   loader.classList.add("disappear");
+// }
 $(function () {
   $("a.nav-link").each(function () {
     if ($(this).prop("href") == window.location.href) {
