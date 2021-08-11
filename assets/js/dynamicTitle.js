@@ -1,4 +1,9 @@
 window.onload = function () {
+
+
+  console.log("PAGE LOADED");
+
+
   const favicon = document.getElementById("favicon");
   let pageTitle = document.title;
   let attentionMessage = "";
