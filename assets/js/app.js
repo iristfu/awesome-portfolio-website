@@ -306,7 +306,9 @@ $(function () {
   //toggler hamburger functions
   const menuBtn = document.querySelector(".navbar-toggler");
   let menuOpen = false;
+  console.log('before the event listener')
   menuBtn.addEventListener("click", () => {
+    console.log('menu btn was clicked');
     if (!menuOpen) {
       menuBtn.classList.add("open");
       menuOpen = true;
