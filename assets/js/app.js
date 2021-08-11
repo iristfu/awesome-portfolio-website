@@ -8,7 +8,6 @@ let header = $(`
   <div id="js-hamburger" class="hamburger">
     <span class="first"></span>
     <span class="second"></span>
-    <span class="third"></span>
   </div>
 
 </div>
