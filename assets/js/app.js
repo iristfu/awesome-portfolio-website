@@ -1,5 +1,9 @@
 "use strict";
 
+window.addEventListener('DOMContentLoaded', (event) => {
+  console.log('DOM fully loaded and parsed part 2');
+});
+
 let header = $(`
 <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="navbar">
 <a class="navbar-brand" href="index.html">Iris Fu </a>
