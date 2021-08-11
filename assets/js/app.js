@@ -293,6 +293,8 @@ const scrollToExperience = () => {
   element.scrollIntoView({behavior: "smooth"});
   // document.querySelector(".navbar-toggler").classList.remove("open");
   $("#js-hamburger").toggleClass("is-active");
+
+  console.log('scroll to experience was called');
 };
 
 // Window Loads
@@ -306,17 +308,13 @@ $(function () {
   //toggler hamburger functions
   const menuBtn = document.querySelector(".navbar-toggler");
   let menuOpen = false;
-  console.log('before the event listener')
   menuBtn.addEventListener("click", () => {
-    console.log('menu btn was clicked');
     if (!menuOpen) {
       menuBtn.classList.add("open");
       menuOpen = true;
-      console.log('a')
     } else {
       menuBtn.classList.remove("open");
       menuOpen = false;
-      console.log('b')
     }
   });
 });
