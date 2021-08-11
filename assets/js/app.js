@@ -8,6 +8,7 @@ let header = $(`
   <div id="js-hamburger" class="hamburger">
     <span class="first"></span>
     <span class="second"></span>
+    <span class="third"></span>
   </div>
 
 </div>
@@ -324,6 +325,8 @@ $(function () {
   $("#js-hamburger").on("click", function () {
     $(this).toggleClass("is-active");
   });
+
+  console.log('smth happened')
 });
 
 // Navbar current page highlight
