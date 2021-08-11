@@ -1,9 +1,5 @@
 "use strict";
 
-window.addEventListener('DOMContentLoaded', (event) => {
-  console.log('DOM fully loaded and parsed part 2');
-});
-
 let header = $(`
 <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="navbar">
 <a class="navbar-brand" href="index.html">Iris Fu </a>
@@ -297,8 +293,6 @@ const scrollToExperience = () => {
   element.scrollIntoView({behavior: "smooth"});
   // document.querySelector(".navbar-toggler").classList.remove("open");
   $("#js-hamburger").toggleClass("is-active");
-
-  console.log('scroll to experience was called');
 };
 
 // Window Loads
@@ -327,7 +321,7 @@ $(function () {
 
 $(function () {
   $("#js-hamburger").on("click", function () {
-    $(this).toggleClass("is-active");
+    // $(this).toggleClass("is-active");
   });
 
   console.log('smth happened')

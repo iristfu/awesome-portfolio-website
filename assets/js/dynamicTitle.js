@@ -1,13 +1,4 @@
-window.addEventListener('DOMContentLoaded', (event) => {
-  console.log('DOM fully loaded and parsed');
-});
-
 window.onload = function () {
-
-
-  console.log("PAGE LOADED");
-
-
   const favicon = document.getElementById("favicon");
   let pageTitle = document.title;
   let attentionMessage = "";
