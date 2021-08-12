@@ -27,11 +27,11 @@ const exp = [
     desp:"<p>I was a full stack engineer building out a data visualization tool at the Glassman Lab at Harvard University. Within a 5000+ line code base, I designed an additional feature using a Java backend and a Javascript/HTML/CSS frontend that allows users to filter into a specific time window to understand the timeline between a condition's diagnosis and symptoms. I also got to mentor a high school research intern along the way, so after I figured out how to build a component, I had the opportunity to show him my thought process, including what led me to write the code that I did, and what effect that code had on the final product. </p>",
   },
   {
-    title: "Research Intern",
+    title: "Head of Events",
     cardImage: "assets/images/experiences/curis-experience.gif",
-    place: "Stanford Human Computer Interaction Lab",
-    time: "(Apr, 2021 - present)",
-    desp: "<p>I am an undergraduate research intern through the CURIS program this summer. Specifically, I'm building out a narrative-based augmented reality tutor, which integrates AI-generated narratives with AR learning activities. I'm using Unity and C# to create interactive features such as a 3D planet model and a 3D diary that stores text and image input from users. </p>",
+    place: "HackOR Hackathon",
+    time: "(Nov, 2020 - March 2021)",
+    desp: "<p>I grew up in Oregon, a state with little tech/software infrastructure. Therefore, my friend Joy (who I met at the Yale Young Global Scholars program during sophomore year of high school) and I decided to organize the first-ever student-led Hackathon for Oregon. We were sponsored by Major League Hacking, NVIDIA, Wolfram Language, MongoDB, among others, and we proudly hosted 650+ registrants across 300 educational institutions during our inaugural event. We learned a lot about hosting virtual events, and I can't wait to help organize more hackathons in the future!</p>",
   },
   {
     title: "Frontend Engineer",
