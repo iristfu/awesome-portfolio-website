@@ -81,7 +81,7 @@ const volunteershipcards = [
     title: "Happy Expenses",
     cardImage: "assets/images/experience-page/1.jpg",
     description:
-      "- Designed and coded from scratch an expense tracking app utilizing SwiftUI and Core Data. I got to test it with my friend over our vacation to Greece. As I found new features that I wanted during the day, I could code them out at night. This was super empowering!",
+      "Designed and coded from scratch an expense tracking app utilizing SwiftUI and Core Data. I got to test it with my friend over our vacation to Greece, discover new feature needs during the day, and code them out at night.",
   },
   {
     title: "StudentCode-in 2020",
