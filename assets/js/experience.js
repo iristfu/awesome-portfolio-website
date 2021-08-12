@@ -32,12 +32,12 @@ const exp = [
   //   time: "(Nov, 2020 - March 2021)",
   //   desp:"<p>I grew up in Oregon, a state with little tech/software infrastructure. Therefore, my friend Joy (who I met at the Yale Young Global Scholars program during sophomore year of high school) and I decided to organize the first-ever student-led Hackathon for Oregon. We were sponsored by Major League Hacking, NVIDIA, Wolfram Language, MongoDB, among others, and we proudly hosted 650+ registrants across 300 educational institutions during our inaugural event. We learned a lot about hosting virtual events, and I can't wait to help organize more hackathons in the future! </p>",
   // },
-  //   title: "Lead Computer Science Instructor",
-  //   cardImage: "assets/images/experiences/blue-ivy-learning-logo.jpg",
-  //   place: "Blue Ivy Learning",
-  //   time: "(Nov, 2020 - Jun 2021)",
-  //   desp:"<p>I believe that teaching leads to mastery. After completing the introductory computer science course CS106A at Stanford, I had the opportunity to design my own introductory Python curriculum for Blue Ivy Learning. In my course, I included key concepts I learned in CS106A, such as strings, dictionaries, and the principles of writing clean, readable code. By articulating these concepts to a group of 30+ students and answering any points of confusion, I gained a stronger understanding of core computer science fundamentals. </p>",
-  // },
+    title: "Lead Computer Science Instructor",
+    cardImage: "assets/images/experiences/blue-ivy-learning-logo.jpg",
+    place: "Blue Ivy Learning",
+    time: "(Nov, 2020 - Jun 2021)",
+    desp:"<p>I believe that teaching leads to mastery. After completing the introductory computer science course CS106A at Stanford, I had the opportunity to design my own introductory Python curriculum for Blue Ivy Learning. In my course, I included key concepts I learned in CS106A, such as strings, dictionaries, and the principles of writing clean, readable code. By articulating these concepts to a group of 30+ students and answering any points of confusion, I gained a stronger understanding of core computer science fundamentals. </p>",
+  },
 ];
 
 const showCards2 = () => {
