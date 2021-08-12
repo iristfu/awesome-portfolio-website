@@ -13,11 +13,11 @@ const exp = [
     desp: "<p>I am an undergraduate research intern through the CURIS program this summer. Specifically, I'm building out a narrative-based augmented reality tutor, which integrates AI-generated narratives with AR learning activities. I'm using Unity and C# to create interactive features such as a 3D planet model and a 3D diary that stores text and image input from users. </p>",
   },
   {
-    title: "Student Developer",
+    title: "Frontend Engineer",
     cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    place: "Virtuali LLC",
+    time: "(Dec 2020 - April, 2021)",
+    desp: "<p>When campus shut down, Virtuali turned virtual. At Virtuali, I helped build a gamified Stanford campus (think Club Penguin, but Stanford!). I picked up on React, React Native, Firebase, Figma, and HTML/CSS along the way. This was my first "real" software engineering experience on a team, and it was so fun to "hack" features together, Google for answers, and get users to test our product! The platform is now available to students at all universities on https://virtuali.co/home </p>",
   },
   {
     title: "Research Intern",
