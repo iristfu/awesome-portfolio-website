@@ -84,22 +84,34 @@ const volunteershipcards = [
       "Designed and coded from scratch an expense tracking app utilizing SwiftUI and Core Data. I got to test it with my friend over our vacation to Greece, discover new feature needs during the day, and code them out at night.",
   },
   {
-    title: "StudentCode-in 2020",
+    title: "Coronavirus.sim",
     cardImage: "assets/images/experience-page/2.jpg",
     description:
-      "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
+      "Developed COVID-19 virtual game simulation using Javascript and HTML/CSS. Won “Best Domain” at Cal Hacks (selected out of 2200+ participants), the world’s largest collegiate hackathon.",
   },
   {
-    title: "PClub Summer Of Code 2020",
+    title: "Heap Allocator",
     cardImage: "assets/images/experience-page/3.jpg",
     description:
-      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
+      "Systems class final project; wrote a dynamic memory allocator using C, including a custom malloc, free, and realloc function for implicit and explicit structures on the heap. Implemented coalescing for adjacent blocks of freed memory; evaluated tradeoffs between tight memory utilization and high throughput.",
   },
   {
-    title: "Hakin-Codes",
+    title: "Huffman Encoder/Decoder",
     cardImage: "assets/images/experience-page/4.jpg",
     description:
-      "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
+      "Final assignment of Programming Abstractions course; implemented a program that uses Huffman coding to compress and decompress files, utilizing recursive exploration, linked structures, and trees.",
+  },
+  {
+    title: "Gender Bias Data Visualizer",
+    cardImage: "assets/images/experience-page/4.jpg",
+    description:
+      "Built program that intakes datasets from popular platforms like Reddit, Facebook, etc., runs Python algorithm to determine the level of gender bias in adjective use across platforms, then displays data graphically.",
+  },
+  {
+    title: "Terminal Hangman",
+    cardImage: "assets/images/experience-page/4.jpg",
+    description:
+      "Extension to a CS106A assignment; created a 2 vs. 2 hangman game in terminal, leveraging dictionaries and string manipulation. The game tracks each player's score, has game setting customizability, and lets players input words for the other player to guess.",
   },
 ];
 
