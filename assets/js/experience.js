@@ -14,7 +14,7 @@ const exp = [
   },
   {
     title: "Frontend Engineer",
-    cardImage: "assets/images/experience-page/gsoc.png",
+    cardImage: "assets/gifs/virtuali-experience.gif",
     place: "Virtuali LLC",
     time: "(Dec 2020 - April, 2021)",
     desp: "<p>When campus shut down, Virtuali turned virtual. At Virtuali, I helped build a gamified Stanford campus (think Club Penguin, but Stanford!). I picked up on React, React Native, Firebase, Figma, and HTML/CSS along the way. This was my first 'real' software engineering experience on a team, and it was so fun to 'hack' features together, Google for answers, and get users to test our product! The platform is now available to students at all universities on https://virtuali.co/home </p>",
