@@ -313,7 +313,7 @@ ul ol {
 .volunteerCard {
   display: block;
   position: relative;
-  max-width: 262px;
+  max-width: 292px;
   border-radius: 4px;
   padding: 32px 24px;
   margin: 12px;
@@ -460,8 +460,8 @@ ul ol {
 }
 
 .copy {
-  font-size: 0.95rem;
-  font-style: italic;
+  font-size: 0.85rem;
+  /* font-style: italic; */
   line-height: 1.35;
   padding-bottom: 40px;
   color: var(--head-col);
