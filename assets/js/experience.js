@@ -10,7 +10,7 @@ const exp = [
     cardImage: "assets/images/experience-page/flipkart.jpg",
     place: "Stanford Human Computer Interaction Lab",
     time: "(April, 2021 - present)",
-    desp: "<p>I am an undergraduate research intern through the CURIS program this summer. Specifically, I'm building out a narrative-based augmented reality tutor, which integrates AI-generated narratives with AR learning activities. I'm using Unity and C# to create interactive features such as a 3D planet model and a 3D diary that stores text and image input from users. </p>",
+    desp: "<p>I am an undergraduate research intern through the <a href="https://curis.stanford.edu">CURIS program</a> this summer. Specifically, I'm building out a narrative-based augmented reality tutor, which integrates AI-generated narratives with AR learning activities. I'm using Unity and C# to create interactive features such as a 3D planet model and a 3D diary that stores text and image input from users. </p>",
   },
   {
     title: "Student Developer",
