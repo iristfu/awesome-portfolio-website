@@ -20,6 +20,13 @@ const exp = [
     desp: "<p>When campus shut down, Virtuali turned virtual. At Virtuali, I helped build a gamified Stanford campus (think Club Penguin, but Stanford!). I picked up on React, React Native, Firebase, Figma, and HTML/CSS along the way. This was my first 'real' software engineering experience on a team, and it was so fun to 'hack' features together, Google for answers, and get users to test our product! The platform is now available to students at all universities on https://virtuali.co/home </p>",
   },
   {
+    title: "Full Stack Engineer",
+    cardImage: "assets/images/experiences/virtuali-experience.gif",
+    place: "Harvard University Glassman Lab",
+    time: "(Jul, 2021 - present)",
+    desp:"<p>I was a full stack engineer building out a data visualization tool at the Glassman Lab at Harvard University. Within a 5000+ line code base, I designed an additional feature using a Java backend and a Javascript/HTML/CSS frontend that allows users to filter into a specific time window to understand the timeline between a condition's diagnosis and symptoms. I also got to mentor a high school research intern along the way, so after I figured out how to build a component, I had the opportunity to show him my thought process, including what led me to write the code that I did, and what effect that code had on the final product. </p>",
+  },
+  {
     title: "Research Intern",
     cardImage: "assets/images/experiences/curis-experience.gif",
     place: "Stanford Human Computer Interaction Lab",
@@ -33,13 +40,6 @@ const exp = [
     time: "(Dec 2020 - Apr, 2021)",
     desp: "<p>When campus shut down, Virtuali turned virtual. At Virtuali, I helped build a gamified Stanford campus (think Club Penguin, but Stanford!). I picked up on React, React Native, Firebase, Figma, and HTML/CSS along the way. This was my first 'real' software engineering experience on a team, and it was so fun to 'hack' features together, Google for answers, and get users to test our product! The platform is now available to students at all universities on https://virtuali.co/home </p>",
   },
-  // {
-  //   title: "Full Stack Engineer",
-  //   cardImage: "assets/images/experiences/virtuali-experience.gif",
-  //   place: "Harvard University Glassman Lab",
-  //   time: "(Jul, 2021 - present)",
-  //   desp:"<p>I was a full stack engineer building out a data visualization tool at the Glassman Lab at Harvard University. Within a 5000+ line code base, I designed an additional feature using a Java backend and a Javascript/HTML/CSS frontend that allows users to filter into a specific time window to understand the timeline between a condition's diagnosis and symptoms. I also got to mentor a high school research intern along the way, so after I figured out how to build a component, I had the opportunity to show him my thought process, including what led me to write the code that I did, and what effect that code had on the final product. </p>",
-  // },
   //   title: "Head of Events",
   //   cardImage: "assets/images/experiences/virtuali-experience.gif",
   //   place: "HackOR Hackathon",
