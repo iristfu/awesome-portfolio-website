@@ -120,7 +120,7 @@ const volunteershipcards = [
       "Created 60+ videos to reach 1.5M views and 20k subscribers. Learned a lot about digital marketing and working with brands (from ed-tech companies to the dating app Bumble)!",
   },
   {
-    title: "Addressing the Gender Gap: How AR Can Engage Girls in STEM",
+    title: "Using AR to Engage Girls in STEM",
     cardImage: "assets/images/experience-page/4.jpg",
     description:
       "Conducted primary and secondary research to formalize into a 23-page paper with Abstract, Literature Review, Methodology, Results, Conclusion, and Appendix. Gained significant experience in primary research methodologies and writing scientific papers from start to finish.",
