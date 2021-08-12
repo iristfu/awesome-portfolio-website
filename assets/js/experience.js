@@ -123,7 +123,7 @@ const volunteershipcards = [
     title: "Using AR to Engage Girls in STEM",
     cardImage: "assets/images/experience-page/4.jpg",
     description:
-      "Conducted primary and secondary research to formalize into a 23-page paper with Abstract, Literature Review, Methodology, Results, Conclusion, and Appendix. Gained significant experience in primary research methodologies and writing scientific papers from start to finish.",
+      "Conducted primary and secondary research to formalize into a 23-page paper with Abstract, Literature Review, Methodology, Results, and Appendix. Gained significant experience in primary research methodologies and writing scientific papers from start to finish.",
   },
   {
     title: "Gateway to American Economics",
