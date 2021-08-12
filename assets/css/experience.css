@@ -219,7 +219,7 @@ ul ol {
     border-bottom-left-radius: 13px;
     border-top-right-radius: 0;
     max-width: 300px;
-    height: inherit;
+    /* height: inherit; */
     width: 100%;
   }
 }
