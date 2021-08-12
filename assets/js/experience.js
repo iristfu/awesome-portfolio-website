@@ -21,7 +21,7 @@ const exp = [
   },
   {
     title: "Full Stack Engineer",
-    cardImage: "",
+    cardImage: "assets/images/experiences/virtuali-experience.gif",
     place: "Harvard University Glassman Lab",
     time: "(Jul, 2021 - present)",
     desp:"<p>I was a full stack engineer building out a data visualization tool at the Glassman Lab at Harvard University. Within a 5000+ line code base, I designed an additional feature using a Java backend and a Javascript/HTML/CSS frontend that allows users to filter into a specific time window to understand the timeline between a condition's diagnosis and symptoms. I also got to mentor a high school research intern along the way, so after I figured out how to build a component, I had the opportunity to show him my thought process, including what led me to write the code that I did, and what effect that code had on the final product. </p>",
