@@ -40,12 +40,12 @@ const exp = [
     time: "(Dec 2020 - Apr, 2021)",
     desp: "<p>When campus shut down, Virtuali turned virtual. At Virtuali, I helped build a gamified Stanford campus (think Club Penguin, but Stanford!). I picked up on React, React Native, Firebase, Figma, and HTML/CSS along the way. This was my first 'real' software engineering experience on a team, and it was so fun to 'hack' features together, Google for answers, and get users to test our product! The platform is now available to students at all universities on https://virtuali.co/home </p>",
   },
-    title: "Lead Computer Science Instructor",
-    cardImage: "assets/images/experiences/blue-ivy-learning-logo.jpg",
-    place: "Blue Ivy Learning",
-    time: "(Nov, 2020 - Jun 2021)",
-    desp:"<p>I believe that teaching leads to mastery. After completing the introductory computer science course CS106A at Stanford, I had the opportunity to design my own introductory Python curriculum for Blue Ivy Learning. In my course, I included key concepts I learned in CS106A, such as strings, dictionaries, and the principles of writing clean, readable code. By articulating these concepts to a group of 30+ students and answering any points of confusion, I gained a stronger understanding of core computer science fundamentals. </p>",
-  },
+  //   title: "Lead Computer Science Instructor",
+  //   cardImage: "assets/images/experiences/blue-ivy-learning-logo.jpg",
+  //   place: "Blue Ivy Learning",
+  //   time: "(Nov, 2020 - Jun 2021)",
+  //   desp:"<p>I believe that teaching leads to mastery. After completing the introductory computer science course CS106A at Stanford, I had the opportunity to design my own introductory Python curriculum for Blue Ivy Learning. In my course, I included key concepts I learned in CS106A, such as strings, dictionaries, and the principles of writing clean, readable code. By articulating these concepts to a group of 30+ students and answering any points of confusion, I gained a stronger understanding of core computer science fundamentals. </p>",
+  // },
 ];
 
 const showCards2 = () => {
