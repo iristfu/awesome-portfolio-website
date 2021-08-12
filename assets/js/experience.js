@@ -81,7 +81,7 @@ const volunteershipcards = [
     title: "Happy Expenses",
     cardImage: "assets/images/experience-page/1.jpg",
     description:
-      "Designed and coded from scratch an expense tracking app utilizing SwiftUI and Core Data. I got to test it with my friend over our vacation to Greece, discover new feature needs during the day, and code them out at night.",
+      "Designed and coded from scratch an expense tracking app utilizing SwiftUI and Core Data. I got to test it with my friend over our vacation to Greece, discover new features we wanted during the day, and code them out at night!",
   },
   {
     title: "Coronavirus.sim",
@@ -112,6 +112,30 @@ const volunteershipcards = [
     cardImage: "assets/images/experience-page/4.jpg",
     description:
       "Extension to a CS106A assignment; created a 2 vs. 2 hangman game in terminal, leveraging dictionaries and string manipulation. The game tracks each player's score, has game setting customizability, and lets players input words for the other player to guess.",
+  },
+  {
+    title: "Youtube channel",
+    cardImage: "assets/images/experience-page/4.jpg",
+    description:
+      "Created 60+ videos to reach 1.5M views and 20k subscribers. Learned a lot about digital marketing and working with brands (from ed-tech companies to the dating app Bumble)!",
+  },
+  {
+    title: "Addressing the Gender Gap: How Augmented Reality Can Engage Girls in STEM",
+    cardImage: "assets/images/experience-page/4.jpg",
+    description:
+      "Conducted primary and secondary research to formalize into a 23-page paper with Abstract, Literature Review, Methodology, Results, Conclusion, and Appendix. Gained significant experience in primary research methodologies and writing scientific papers from start to finish.",
+  },
+  {
+    title: "Gateway to American Economics",
+    cardImage: "assets/images/experience-page/4.jpg",
+    description:
+      "Upon learning that the most popular introductory economics book has a blue sports car on the front cover, I wrote, designed, and self-published an introductory economics book with gender neutral images. It's sold on Amazon and made freely accessible to all educators and students.",
+  },
+  {
+    title: "See The Voices",
+    cardImage: "assets/images/experience-page/4.jpg",
+    description:
+      "In high school, I built a video pal program (like pen pal, but replace letter writing w/ video calling) from scratch. I recruited a team and program ambassadors worldwide to build out a web product and engage more than 10k students over six continents in two years.",
   },
 ];
 
