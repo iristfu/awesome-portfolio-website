@@ -21,7 +21,7 @@ const exp = [
   },
   {
     title: "Full Stack Engineer",
-    cardImage: "",
+    cardImage: "assets/images/experiences/glassman-demo.gif",
     place: "Harvard University Glassman Lab",
     time: "(Jul, 2021 - present)",
     desp:"<p>I was involved as a mentor to a high school researcher at the Harvard University Glassman Lab, where I led him through the process of building out a data visualization tool. Within a 5000+ line code base, I designed an additional feature using a Java backend and a Javascript/HTML/CSS frontend that allows users to filter into a specific time window to understand the timeline between a condition's diagnosis and symptoms. Through my mentorship role, I showed my mentee my thought process, including what led me to write the code that I did, and what effect that code had on the final product.</p>",
