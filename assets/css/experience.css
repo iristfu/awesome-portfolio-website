@@ -478,6 +478,16 @@ ul ol {
   color: var(--head-col);
 }
 
+/* Education Section Starts */
+.educationTitle {
+  font-size: 1.4rem;
+  line-height: 1.2;
+  transform: translateY(40px);
+  transition: all 0.7s;
+  font-weight: 900;
+  color: #303f9f;
+}
+
 /*Hackathon Section Starts*/
 
 .blog-slider {
