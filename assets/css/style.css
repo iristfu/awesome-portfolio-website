@@ -73,7 +73,7 @@ html[data-theme="dark"] {
 }
 
 ::-webkit-scrollbar-track {
-    -webkit-box-shadow: inset 0 0 6px ##007bff;
+    -webkit-box-shadow: inset 0 0 6px #0088CC;
     border-radius: 2px;
     background: #f1f1f1;
 }
@@ -81,8 +81,8 @@ html[data-theme="dark"] {
 ::-webkit-scrollbar-thumb {
     border-radius: 2px;
     max-height: 10px;
-    -webkit-box-shadow: inset 0 0 6px ##007bff;
-    background: ##007bff;
+    -webkit-box-shadow: inset 0 0 6px #0088CC;
+    background: ##0088CC;
     transition: 0.3s;
 }
 
