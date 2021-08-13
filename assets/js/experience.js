@@ -73,9 +73,9 @@ const showCards2 = () => {
 document.addEventListener("DOMContentLoaded", showCards2);
 
 
-// Volunteership Cards
+// Project Cards
 
-const volunteership = document.querySelector(".volunteership");
+const volunteership = document.querySelector(".projects");
 const volunteershipcards = [
   {
     title: "Happy Expenses",
@@ -157,6 +157,7 @@ const showCards = () => {
   volunteership.innerHTML = output;
 };
 document.addEventListener("DOMContentLoaded", showCards);
+
 
 
 // Hackathon Section
