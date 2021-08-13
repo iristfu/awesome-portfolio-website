@@ -79,7 +79,7 @@ const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
     title: "Happy Expenses",
-    cardImage: "assets/images/experiences/happy-expenses-1.gif",
+    cardImage: "assets/images/experiences/happy-expenses.gif",
     description:
       "Designed and coded from scratch an expense tracking app utilizing SwiftUI and Core Data. I got to test it with my friend over our vacation to Greece, discover new features we wanted during the day, and code them out at night!",
   },
