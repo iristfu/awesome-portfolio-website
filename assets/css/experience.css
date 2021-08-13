@@ -309,6 +309,17 @@ ul ol {
   --d: 700ms;
   --e: cubic-bezier(0.19, 1, 0.22, 1);
 }
+.educationCard {
+  display: block;
+  position: relative;
+  /* max-width: 320px; */
+  border-radius: 4px;
+  padding: 32px 24px;
+  margin: 12px;
+  text-decoration: none;
+  z-index: 0;
+  overflow: hidden;
+}
 
 .volunteerCard {
   display: block;
