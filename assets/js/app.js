@@ -252,7 +252,7 @@ let footer = $(`
 
 //"Scroll to top" button
 let upArrow = $(`
-  <button id="btnScrollToTop" onclick="scrollToTop()"><i class="fas fa-2x fa-angle-up"></i></button>
+  <button id="btnScrollToTop" "onclick="scrollToTop()"><i class="fas fa-2x fa-angle-up"></i></button>
   <link rel="stylesheet" type="text/css" href="./assets/css/style.css" />
   })
 `);
@@ -275,9 +275,9 @@ $(document).ready(function () {
         $(document).height() - 838
       ) {
         // 838 should be changed if footer's height is changed so that the button changes it's color exactly when it hits the footer (preferably 14 less than the computer height of the footer)
-        $("#btnScrollToTop").css("background-color", "#6a00bb");
+        $("#btnScrollToTop").css("background-color", "#006CFF");
       } else {
-        $("#btnScrollToTop").css("background-color", "#6a00bb");
+        $("#btnScrollToTop").css("background-color", "#006CFF");
       }
     }
   });
