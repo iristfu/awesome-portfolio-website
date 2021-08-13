@@ -464,7 +464,6 @@ ul ol {
   position: relative;
   display: flex;
   flex-direction: column;
-  align-items: left;
   width: 100%;
   margin-top: 0.1rem;
   transition: transform var(--d) var(--e);
