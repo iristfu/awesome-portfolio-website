@@ -103,7 +103,7 @@ const volunteershipcards = [
   },
   {
     title: "Gender Bias Data Visualizer",
-    cardImage: "assets/images/experiences/gender-data.gif",
+    cardImage: "assets/images/experiences/gender-data-sc.png",
     description:
       "Built program that intakes datasets from popular platforms like Reddit, Facebook, etc., runs Python algorithm to determine the level of gender bias in adjective use across platforms, then displays data graphically.",
   },
