@@ -127,7 +127,7 @@ const volunteershipcards = [
   },
   {
     title: "Gateway to American Economics",
-    cardImage: "assets/images/experiences/gateway-to-american-economics.pdf",
+    cardImage: "assets/images/experiences/gateway-to-american-economics.png",
     description:
       "Upon learning that the most popular introductory economics book has a blue sports car on the front cover, I wrote, designed, and self-published an introductory economics book with gender neutral images. It's sold on Amazon and made freely accessible to all educators and students.",
   },
