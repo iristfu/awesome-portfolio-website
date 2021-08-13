@@ -91,7 +91,7 @@ const volunteershipcards = [
   },
   {
     title: "Heap Allocator",
-    cardImage: "assets/images/experience-page/3.jpg",
+    cardImage: "assets/images/experiences/heap-allocator.gif",
     description:
       "Systems class final project; wrote a dynamic memory allocator using C, including a custom malloc, free, and realloc function for implicit and explicit structures on the heap. Implemented coalescing for adjacent blocks of freed memory; evaluated tradeoffs between tight memory utilization and high throughput.",
   },
