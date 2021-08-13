@@ -115,13 +115,13 @@ const volunteershipcards = [
   },
   {
     title: "Youtube channel",
-    cardImage: "assets/images/experience-page/4.jpg",
+    cardImage: "assets/images/experiences/youtuber.png",
     description:
       "Created 60+ videos to reach 1.5M views and 20k subscribers. Learned a lot about digital marketing and working with brands (from ed-tech companies to the dating app Bumble)!",
   },
   {
     title: "Using AR to Engage Girls in STEM",
-    cardImage: "assets/images/experience-page/4.jpg",
+    cardImage: "assets/images/experiences/ar-engage-girls-in-stem.png",
     description:
       "Conducted primary and secondary research to formalize into a 23-page paper with Abstract, Literature Review, Methodology, Results, and Appendix. Gained significant experience in primary research methodologies and writing scientific papers from start to finish.",
   },
@@ -133,7 +133,7 @@ const volunteershipcards = [
   },
   {
     title: "See The Voices",
-    cardImage: "assets/images/experience-page/4.jpg",
+    cardImage: "assets/images/experiences/video-call.png",
     description:
       "In high school, I built a video pal program (like pen pal, but replace letter writing w/ video calling) from scratch. I recruited a team and program ambassadors worldwide to build out a web product and engage more than 10k students over six continents in two years.",
   },
