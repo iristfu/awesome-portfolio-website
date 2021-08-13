@@ -85,7 +85,7 @@ const volunteershipcards = [
   },
   {
     title: "Coronavirus.sim",
-    cardImage: "assets/images/experience-page/2.jpg",
+    cardImage: "assets/images/experiences/coronasim.space.gif",
     description:
       "Developed COVID-19 virtual game simulation using Javascript and HTML/CSS. Won “Best Domain” at Cal Hacks (selected out of 2200+ participants), the world’s largest collegiate hackathon.",
   },
