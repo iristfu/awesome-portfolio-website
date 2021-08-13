@@ -84,7 +84,7 @@ const volunteershipcards = [
       "Designed and coded from scratch an expense tracking app utilizing SwiftUI and Core Data. I got to test it with my friend over our vacation to Greece, discover new features we wanted during the day, and code them out at night!",
   },
   {
-    title: "Coronavirus.sim",
+    title: "Coronasim.space",
     cardImage: "assets/images/experiences/coronasim.space.gif",
     description:
       "Developed COVID-19 virtual game simulation using Javascript and HTML/CSS. Won “Best Domain” at Cal Hacks (selected out of 2200+ participants), the world’s largest collegiate hackathon.",
