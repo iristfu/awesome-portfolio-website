@@ -97,7 +97,7 @@ const volunteershipcards = [
   },
   {
     title: "Huffman Encoder/Decoder",
-    cardImage: "assets/images/experience-page/4.jpg",
+    cardImage: "assets/images/experiences/compression-algorithm.png",
     description:
       "Final assignment of Programming Abstractions course; implemented a program that uses Huffman coding to compress and decompress files, utilizing recursive exploration, linked structures, and trees.",
   },
@@ -109,7 +109,7 @@ const volunteershipcards = [
   },
   {
     title: "Terminal Hangman",
-    cardImage: "assets/images/experience-page/4.jpg",
+    cardImage: "assets/images/experiences/hangman.png",
     description:
       "Extension to a CS106A assignment; created a 2 vs. 2 hangman game in terminal, leveraging dictionaries and string manipulation. The game tracks each player's score, has game setting customizability, and lets players input words for the other player to guess.",
   },
