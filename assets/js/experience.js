@@ -17,14 +17,14 @@ const exp = [
     cardImage: "assets/images/experiences/virtuali-experience.gif",
     place: "Virtuali LLC",
     time: "(Dec 2020 - Apr, 2021)",
-    desp: "<p>When campus shut down, Virtuali turned virtual. At Virtuali, I helped build a gamified Stanford campus (think Club Penguin, but Stanford!). I picked up on React, React Native, Firebase, Figma, and HTML/CSS along the way. This was my first 'real' software engineering experience on a team, and it was so fun to 'hack' features together, Google for answers, and get users to test our product! The platform is now available to students at all universities on https://virtuali.co/home </p>",
+    desp: "<p>At Virtuali, I helped build a gamified Stanford campus (think Club Penguin, but Stanford!). I picked up on React, React Native, Firebase, Figma, and HTML/CSS along the way. This was my first 'real' software engineering experience on a team, and it was so fun to 'hack' features together, Google for answers, and get users to test our product! The platform is now available to students at all universities on https://virtuali.co/home </p>",
   },
   {
     title: "Full Stack Engineer",
     cardImage: "",
     place: "Harvard University Glassman Lab",
     time: "(Jul, 2021 - present)",
-    desp:"<p>I was a full stack engineer building out a data visualization tool at the Glassman Lab at Harvard University. Within a 5000+ line code base, I designed an additional feature using a Java backend and a Javascript/HTML/CSS frontend that allows users to filter into a specific time window to understand the timeline between a condition's diagnosis and symptoms. I also got to mentor a high school research intern along the way, so after I figured out how to build a component, I had the opportunity to show him my thought process, including what led me to write the code that I did, and what effect that code had on the final product. </p>",
+    desp:"<p>I was involved as a mentor to a high school researcher at the Harvard University Glassman Lab, where I led him through the process of building out a data visualization tool. Within a 5000+ line code base, I designed an additional feature using a Java backend and a Javascript/HTML/CSS frontend that allows users to filter into a specific time window to understand the timeline between a condition's diagnosis and symptoms. Through my mentorship role, I showed my mentee my thought process, including what led me to write the code that I did, and what effect that code had on the final product.</p>",
   },
   {
     title: "Lead Computer Science Instructor",
