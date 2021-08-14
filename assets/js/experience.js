@@ -17,7 +17,7 @@ const exp = [
     cardImage: "assets/images/experiences/virtuali-experience.gif",
     place: "Virtuali LLC",
     time: "(Dec 2020 - Apr, 2021)",
-    desp: "<p>At Virtuali, I helped build a gamified Stanford campus (think Club Penguin, but Stanford!). I picked up on React, React Native, Firebase, Figma, and HTML/CSS along the way. This was my first 'real' software engineering experience on a team, and it was so fun to 'hack' features together, Google for answers, and get users to test our product! The platform is now available to students at all universities on https://virtuali.co/home </p>",
+    desp: "<p>At Virtuali, <a href="assets/images/dp_female.svg">I</a> helped build a gamified Stanford campus (think Club Penguin, but Stanford!). I picked up on React, React Native, Firebase, Figma, and HTML/CSS along the way. This was my first 'real' software engineering experience on a team, and it was so fun to 'hack' features together, Google for answers, and get users to test our product! The platform is now available to students at all universities on https://virtuali.co/home </p>",
   },
   {
     title: "Full Stack Engineer",
