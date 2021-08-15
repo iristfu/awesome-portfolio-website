@@ -20,8 +20,7 @@ let header = $(`
    <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">Home</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="#work-experience">Experience</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="#my-projects">Projects</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="research.html">Research</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="education.html">Education</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="#education">Education</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="https://hashnode.com/" target="_blank">Blogs</a></li>
    <li class="nav-item">
    <input type="checkbox" class="dark_toggler" aria-label="Toggle Light Mode" onclick="toggle_light_mode()">
